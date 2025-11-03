@@ -3,7 +3,7 @@
 
 ---
 
-# 👋 Hi, I'm Saputra Rizky Johan
+# 👋 Hi, I'm Rizky Johan Saputra
 ## 🌱 Biography
  🎐 Hi, I am a computer programmer and engineer originated from Indonesia and South Korea.
 
