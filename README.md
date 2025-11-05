@@ -118,6 +118,10 @@
   UDP-based transport protocol research system implementing and comparing Go-Back-N and Selective Repeat with loss, duplication, reordering, delay, and rate control channel simulation. <br>
   _Tech:_ C, Assembly, Networks, Selective Repeat, Go-Back-N
 
+- 📹 **[Visual Fusion Real Time System](https://github.com/rizkysaputradev/Visual-Fusion-Real-Time)**  
+  a real-time retrieval multimodial AI based demo that allows a visual input such as a webcam into a CLIP-powered object recognizer with a small, yet sufficient self-growing memory and adjustable text-prototype fusion. <br>
+  _Tech:_ Python, HuggingFace, RAG, OpenCV, Streamlit
+
 - 🗣️ **[Politeness Rewriters](https://github.com/rizkysaputradev/Politeness-Rewriters)**  
   Classifier-guided style transfer for text politeness rewriting using a combination of transformer-based classifiers and controlled text generation. <br>
   _Tech:_ Python, HuggingFace, T5, BART, Transformers
