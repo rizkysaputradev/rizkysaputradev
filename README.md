@@ -44,6 +44,14 @@
 ![VHDL](https://img.shields.io/badge/VHDL-6A5ACD?logo=vhdl&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 
 ---
 
