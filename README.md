@@ -1,5 +1,5 @@
 <!-- Typing animation headline -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=F75C7E&width=600&lines=Deep+Learning+%7C+Machine+Learning+%7C+Computer+Vision+%7C+Computer+Network;Embedded+System+%7C+Robotics+%7C+Real-Time+System+%7C+Computer+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=F75C7E&width=1000&lines=Deep+Learning+%7C+Machine+Learning+%7C+Computer+Vision+%7C+Computer+Network;Embedded+System+%7C+Robotics+%7C+Real-Time+System+%7C+Computer+Architecture)](https://git.io/typing-svg)
 
 ---
 
