@@ -124,7 +124,7 @@
   _Tech:_ C, Assembly, Multithreading, Memory, Concurrency <br>
   _Field:_ Memory System, Computer Architecture, System Programming, Hardware System
 
-- 🔬 **[Byte Bistro Transport Protocols](https://github.com/rizkysaputradev/Byte-Bistro-Transport-Protocols.git)**  
+- 🔬 **[Byte Bistro UDP Transport Protocols](https://github.com/rizkysaputradev/Byte-Bistro-Transport-Protocols.git)**  
   UDP-based transport protocol research system implementing and comparing Go-Back-N and Selective Repeat with loss, duplication, reordering, delay, and rate control channel simulation. <br>
   _Tech:_ C, Assembly, Networks, Selective Repeat, Go-Back-N <br>
   _Field:_ Computer Network, Data Communication, System Programming, Embedded System
@@ -139,7 +139,7 @@
   _Tech:_ Rust, C++, Assembly, SIMD, Python, DSP, Multithreading, FFI <br>
   _Field:_ System Programming, Digital Signal Processing, Real-Time System, Audio Engineering
 
-- 🗣️ **[Politeness Rewriters](https://github.com/rizkysaputradev/Politeness-Rewriters)**  
+- 🗣️ **[Politeness Rewriter NLP Based System](https://github.com/rizkysaputradev/Politeness-Rewriters)**  
   Classifier-guided style transfer for text politeness rewriting using a combination of transformer-based classifiers and controlled text generation. <br>
   _Tech:_ Python, HuggingFace, T5, BART, Transformers <br>
   _Field:_ Natural Language Proessing, Deep Learning, Machine Learning, Artificial Intelligence
