@@ -120,7 +120,7 @@
 ## 🚀 Featured Projects
 
 - 🧠 **[Dynamic Integrated Memory Cross Allocation](https://github.com/rizkysaputradev/Dynamic-Integrated-Memory-Cross-Allocation.git)**  
-  a customized memory allocator which optimizes the distribution of data dynamically across multi-level memory pools. <br>
+  Customized dynamic memory allocator which optimizes the distribution of data dynamically across multi-level memory pools. <br>
   _Tech:_ C, Assembly, Multithreading, Memory, Concurrency <br>
   _Field:_ Memory System, Computer Architecture, System Programming, Hardware System
 
@@ -130,9 +130,14 @@
   _Field:_ Computer Network, Data Communication, System Programming, Embedded System
 
 - 📹 **[Vision Fusion Real Time System](https://github.com/rizkysaputradev/Vision-Fusion-Real-Time)**  
-  a real-time retrieval multimodial AI based demo that allows a visual input such as a webcam into a CLIP-powered object recognizer with a small, yet sufficient self-growing memory and adjustable text-prototype fusion. <br>
+  Real-time retrieval multimodial AI based demo that allows a visual input such as a webcam into a CLIP-powered object recognizer with a small, yet sufficient self-growing memory and adjustable text-prototype fusion. <br>
   _Tech:_ Python, HuggingFace, RAG, OpenCV, Streamlit <br>
   _Field:_ Computer Vision, Real-Time System, Machine Learning, Artificial Intelligence
+
+- 🎼 **[Ambientor Real-Time Engine](https://github.com/rizkysaputradev/Ambientor-Real-Time-Engine.git)**  
+  Cross-platform multithreaded real-time ambient sound engine built with Rust, C++, Python bindings, and SIMD-accelerated DSP—designed as a compact laboratory for systems-level audio synthesis and low-latency performance research. <br>
+  _Tech:_ Rust, C++, Assembly, SIMD, Python, DSP, Multithreading, FFI <br>
+  _Field:_ System Programming, Digital Signal Processing, Real-Time System, Audio Engineering
 
 - 🗣️ **[Politeness Rewriters](https://github.com/rizkysaputradev/Politeness-Rewriters)**  
   Classifier-guided style transfer for text politeness rewriting using a combination of transformer-based classifiers and controlled text generation. <br>
