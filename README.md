@@ -134,7 +134,7 @@
   _Tech:_ Python, HuggingFace, RAG, OpenCV, Streamlit <br>
   _Field:_ Computer Vision, Real-Time System, Machine Learning, Artificial Intelligence
 
-- 🎼 **[Ambientor Real-Time Engine](https://github.com/rizkysaputradev/Ambientor-Real-Time-Engine.git)**  
+- 🎼 **[Multithreaded Ambientor Real Time Engine](https://github.com/rizkysaputradev/Ambientor-Real-Time-Engine.git)**  
   Cross-platform multithreaded real-time ambient sound engine built with Rust, C++, Python bindings, and SIMD-accelerated DSP—designed as a compact laboratory for systems-level audio synthesis and low-latency performance research. <br>
   _Tech:_ Rust, C++, Assembly, SIMD, Python, DSP, Multithreading, FFI <br>
   _Field:_ System Programming, Digital Signal Processing, Real-Time System, Audio Engineering
