@@ -124,7 +124,7 @@
   _Tech:_ C, Assembly, Multithreading, Memory, Concurrency <br>
   _Field:_ Memory System, Computer Architecture, System Programming, Hardware System
 
-- 🔬 **[Byte Bistro UDP Transport Protocols](https://github.com/rizkysaputradev/Byte-Bistro-Transport-Protocols.git)**  
+- 🔬 **[Byte Bistro Transport Protocols](https://github.com/rizkysaputradev/Byte-Bistro-Transport-Protocols.git)**  
   UDP-based transport protocol research system implementing and comparing Go-Back-N and Selective Repeat with loss, duplication, reordering, delay, and rate control channel simulation. <br>
   _Tech:_ C, Assembly, Networks, Selective Repeat, Go-Back-N <br>
   _Field:_ Computer Network, Data Communication, System Programming, Embedded System
@@ -134,12 +134,12 @@
   _Tech:_ Python, HuggingFace, RAG, OpenCV, Streamlit <br>
   _Field:_ Computer Vision, Real-Time System, Machine Learning, Artificial Intelligence
 
-- 🎼 **[Multithreaded Ambientor Real Time Engine](https://github.com/rizkysaputradev/Ambientor-Real-Time-Engine.git)**  
+- 🎼 **[Ambientor Real-Time Engine](https://github.com/rizkysaputradev/Ambientor-Real-Time-Engine.git)**  
   Cross-platform multithreaded real-time ambient sound engine built with Rust, C++, Python bindings, and SIMD-accelerated DSP—designed as a compact laboratory for systems-level audio synthesis and low-latency performance research. <br>
   _Tech:_ Rust, C++, Assembly, SIMD, Python, DSP, Multithreading, FFI <br>
   _Field:_ System Programming, Digital Signal Processing, Real-Time System, Audio Engineering
 
-- 🗣️ **[Politeness Rewriter NLP Based System](https://github.com/rizkysaputradev/Politeness-Rewriters)**  
+- 🗣️ **[Politeness Rewriters](https://github.com/rizkysaputradev/Politeness-Rewriters)**  
   Classifier-guided style transfer for text politeness rewriting using a combination of transformer-based classifiers and controlled text generation. <br>
   _Tech:_ Python, HuggingFace, T5, BART, Transformers <br>
   _Field:_ Natural Language Proessing, Deep Learning, Machine Learning, Artificial Intelligence
@@ -153,6 +153,81 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rizkysaputradev&theme=onedark&column=5&margin-w=10)
 
 ---
+## 🎓 Undergraduate Coursework
+
+<details>
+<summary><b>📘 Major Requisite Courses</b></summary>
+
+- Computer Programming  
+- Data Structure  
+- Discrete Math  
+- Logic Design  
+- Algorithms  
+- Computer Architecture  
+- Electrical and Electronic Circuits  
+- System Programming  
+- Principles & Practice of Software Development  
+- Creative Integrated Design  
+
+</details>
+
+<details>
+<summary><b>📙 Major Elective Courses</b></summary>
+
+- Machine Learning  
+- Deep Learning  
+- Computer Vision  
+- Computer Graphics  
+- Programming Language  
+- Natural Language Processing  
+- Computer Convergence Applications  
+- Data Communication  
+- Internet Security and Privacy  
+- Blockchain Development  
+- Language and Computer  
+- IT Leadership  
+- Technology Startup  
+- Computing Overview  
+
+</details>
+
+<details>
+<summary><b>📗 Liberal Arts & Science Courses</b></summary>
+
+**Mathematics**  
+- Calculus I, Calculus II  
+- Calculus Practice I & II  
+- Engineering Math I & II  
+
+**Statistics**  
+- Statistics  
+- Statistics Lab  
+
+**Physics**  
+- Physics I & II  
+- Physics Lab I & II  
+
+**Biology**  
+- Biology I  
+- Biology Lab I  
+
+**Humanities**  
+- Psychology  
+- Principles of Accounting  
+- Logic  
+- Buddhism Philosophy  
+- Modern Society & Global Language  
+- Veritas I  
+- Reading in Anglo-American  
+
+**Language**  
+- College Writing I & II  
+- Advanced English: Presentation  
+
+**Computing Foundations**  
+- Digital Computer Concept & Practice  
+
+</details>
 
 ## 🎧 Now Playing
 ![Spotify](https://novatorem.vercel.app/api/spotify)
