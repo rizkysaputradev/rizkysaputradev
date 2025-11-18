@@ -28,6 +28,8 @@
 
 💬 Ask me about: *AI, Machine Learning, Deep Learning, System Programming, Computer Vision or Embedded Systems*  
 
+🗣️ I am also multilingual in these languages: *English, Bahasa Indonesia, Korean, Japanese, Chinese (Slightly), and German (Slightly)*.
+
 📫 Reach me at: **flamablesrizky@gmail.com**
 
 ---
@@ -194,38 +196,34 @@
 <details>
 <summary><b>📗 Liberal Arts & Science Courses</b></summary>
 
-**Mathematics**  
-- Calculus I, Calculus II  
-- Calculus Practice I & II  
-- Engineering Math I & II  
-
-**Statistics**  
-- Statistics  
+**Mathematics:**  
+- Calculus 1, 2  
+- Calculus Practice 1, 2  
+- Engineering Math 1, 2
+- Statistics
 - Statistics Lab  
 
-**Physics**  
-- Physics I & II  
-- Physics Lab I & II  
+**Natural Sciences:**   
+- Physics 1, 2  
+- Physics Lab 1, 2
+- Biology 1
+- Biology Lab 1
 
-**Biology**  
-- Biology I  
-- Biology Lab I  
+**Language and Writing**
+- Advanced English: Presentation
+- College Writing 1, 2
 
-**Humanities**  
-- Psychology  
+**Commputing Foundations:**
+- Digital Computer Concept and Practice
+- Logic and Reasoning
+
+**Humanities:**
+- Introduction to Psychology  
 - Principles of Accounting  
-- Logic  
 - Buddhism Philosophy  
 - Modern Society & Global Language  
-- Veritas I  
-- Reading in Anglo-American  
-
-**Language**  
-- College Writing I & II  
-- Advanced English: Presentation  
-
-**Computing Foundations**  
-- Digital Computer Concept & Practice  
+- Veritas I: Innovation  
+- Reading in Anglo-American   
 
 </details>
 
