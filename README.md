@@ -156,7 +156,7 @@
 
 ---
 ## 🎓 Undergraduate Coursework
-
+These are the list of courses that I have taken during my time as an undergraduate CSE student at Seoul National University, South Korea.
 <details>
 <summary><b>📘 Major Requisite Courses</b></summary>
 
