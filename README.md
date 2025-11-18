@@ -141,9 +141,9 @@
   _Tech:_ Rust, C++, Assembly, SIMD, Python, DSP, Multithreading, FFI <br>
   _Field:_ System Programming, Digital Signal Processing, Real-Time System, Audio Engineering
 
-- 🗣️ **[Politeness Rewriters](https://github.com/rizkysaputradev/Politeness-Rewriters)**  
+- 🗣️ **[Politeness Rewriter T5 Classifier Based System](https://github.com/rizkysaputradev/Politeness-Rewriters)**  
   Classifier-guided style transfer for text politeness rewriting using a combination of transformer-based classifiers and controlled text generation. <br>
-  _Tech:_ Python, HuggingFace, T5, BART, Transformers <br>
+  _Tech:_ Python, Jupyter, HuggingFace, T5, BART, Transformers <br>
   _Field:_ Natural Language Proessing, Deep Learning, Machine Learning, Artificial Intelligence
 
 ---
