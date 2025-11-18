@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Rizky Johan Saputra
 ## 🌱 Biography
- 🎐 Hi, I am a computer programmer and engineer originated from Indonesia and South Korea.
+ 🎐 Hi, I am a computer science engineer originated from Indonesia and South Korea. Primarily specializes at artificial intelligence and embedded systems.
 
 🎓 I am an undergraduate Computer Science and Engineering (CSE) student at Seoul National University, currently expected to graduate in early 2026.
 
