@@ -121,7 +121,7 @@
 
 ## 🚀 Featured Projects
 
-- 🧠 **[Dynamic Integrated Memory Cross Allocation](https://github.com/rizkysaputradev/Dynamic-Integrated-Memory-Cross-Allocation.git)**  
+- 🧠 **[Dynamic Integrated Memory Cross Allocation (DIMCA)](https://github.com/rizkysaputradev/Dynamic-Integrated-Memory-Cross-Allocation.git)**  
   Customized dynamic memory allocator which optimizes the distribution of data dynamically across multi-level memory pools. <br>
   _Tech:_ C, Assembly, Multithreading, Memory, Concurrency <br>
   _Field:_ Memory System, Computer Architecture, System Programming, Hardware System
