@@ -126,22 +126,22 @@
   _Tech:_ C, Assembly, Multithreading, Memory, Concurrency <br>
   _Field:_ Memory System, Computer Architecture, System Programming, Hardware System
 
-- 🔬 **[Byte Bistro Transport Protocols](https://github.com/rizkysaputradev/Byte-Bistro-Transport-Protocols.git)**  
+- 🔬 **[Byte Bistro UDP-Based Transport Protocols](https://github.com/rizkysaputradev/Byte-Bistro-Transport-Protocols.git)**  
   UDP-based transport protocol research system implementing and comparing Go-Back-N and Selective Repeat with loss, duplication, reordering, delay, and rate control channel simulation. <br>
   _Tech:_ C, Assembly, Networks, Selective Repeat, Go-Back-N <br>
   _Field:_ Computer Network, Data Communication, System Programming, Embedded System
 
-- 📹 **[Vision Fusion Real Time System](https://github.com/rizkysaputradev/Vision-Fusion-Real-Time)**  
+- 📹 **[Vision Fusion Real Time System (VFRT)](https://github.com/rizkysaputradev/Vision-Fusion-Real-Time)**  
   Real-time retrieval multimodial AI based demo that allows a visual input such as a webcam into a CLIP-powered object recognizer with a small, yet sufficient self-growing memory and adjustable text-prototype fusion. <br>
   _Tech:_ Python, HuggingFace, RAG, OpenCV, Streamlit <br>
   _Field:_ Computer Vision, Real-Time System, Machine Learning, Artificial Intelligence
 
-- 🎼 **[Ambientor Real-Time Engine](https://github.com/rizkysaputradev/Ambientor-Real-Time-Engine.git)**  
+- 🎼 **[Ambientor DSP-Based Real-Time Engine](https://github.com/rizkysaputradev/Ambientor-Real-Time-Engine.git)**  
   Cross-platform multithreaded real-time ambient sound engine built with Rust, C++, Python bindings, and SIMD-accelerated DSP—designed as a compact laboratory for systems-level audio synthesis and low-latency performance research. <br>
   _Tech:_ Rust, C++, Assembly, SIMD, Python, DSP, Multithreading, FFI <br>
   _Field:_ System Programming, Digital Signal Processing, Real-Time System, Audio Engineering
 
-- 🗣️ **[Politeness Rewriter T5 Classifier Based System](https://github.com/rizkysaputradev/Politeness-Rewriters)**  
+- 🗣️ **[Politeness Rewriter T5-Based System](https://github.com/rizkysaputradev/Politeness-Rewriters)**  
   Classifier-guided style transfer for text politeness rewriting using a combination of transformer-based classifiers and controlled text generation. <br>
   _Tech:_ Python, Jupyter, HuggingFace, T5, BART, Transformers <br>
   _Field:_ Natural Language Proessing, Deep Learning, Machine Learning, Artificial Intelligence
@@ -247,8 +247,8 @@ These are the list of courses that I have taken during my time as an undergradua
 | Machine Learning | ⭐⭐⭐⭐⭐ | CNN, RNN, LSTM, CLIP, Transformers |
 | Deep Learning | ⭐⭐⭐⭐☆ | PyTorch, Vision Transformers, GANs |
 | Computer Vision | ⭐⭐⭐⭐⭐ | FER, real-time inference, CLIP-based retrieval |
-| Memory Systems | ⭐⭐⭐⭐☆ | DRMAT, DIMCA, allocators, concurrency |
-| Embedded/Robotics | ⭐⭐⭐☆☆ | Arduino, Raspberry Pi, FPGA, sensors |
+| Memory Systems | ⭐⭐⭐⭐⭐ | DRMAT, DIMCA, allocators, concurrency |
+| Embedded/Robotics | ⭐⭐⭐⭐☆ | Arduino, Raspberry Pi, FPGA, sensors |
 | Networks | ⭐⭐⭐⭐☆ | Go-Back-N, Selective Repeat, UDP simulation |
 | Compiler Systems | ⭐⭐⭐⭐☆ | DSL custom compiler, IR design, Python training integration |
 
