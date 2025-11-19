@@ -153,6 +153,7 @@
 ![Rizky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkysaputradev&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=rizkysaputradev&theme=radical)](https://git.io/streak-stats)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rizkysaputradev&theme=onedark&column=5&margin-w=10)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rizkysaputradev&theme=react-dark)
 
 ---
 ## 🎓 Undergraduate Coursework
@@ -226,6 +227,40 @@ These are the list of courses that I have taken during my time as an undergradua
 - Reading in Anglo-American   
 
 </details>
+
+## 🌍 Languages
+- 🇺🇸 English — Native/Fluent  
+- 🇮🇩 Indonesian — Native/Fluent  
+- 🇰🇷 Korean — Advanced/Intermediate  
+- 🇯🇵 Japanese — Fluent/Advanced
+- 🇨🇳 Chinese — Intermediate/Basic  
+- 🇩🇪 German — Basic
+
+## 🛠️ Skills Matrix
+
+| Domain | Proficiency | Notes |
+|-------|-------------|-------|
+| Machine Learning | ⭐⭐⭐⭐⭐ | CNN, RNN, LSTM, CLIP, Transformers |
+| Deep Learning | ⭐⭐⭐⭐☆ | PyTorch, Vision Transformers, GANs |
+| Computer Vision | ⭐⭐⭐⭐⭐ | FER, real-time inference, CLIP-based retrieval |
+| Memory Systems | ⭐⭐⭐⭐☆ | DRMAT, DIMCA, allocators, concurrency |
+| Embedded/Robotics | ⭐⭐⭐☆☆ | Arduino, Raspberry Pi, FPGA, sensors |
+| Networks | ⭐⭐⭐⭐☆ | Go-Back-N, Selective Repeat, UDP simulation |
+| Compiler Systems | ⭐⭐⭐⭐☆ | DSL custom compiler, IR design, Python training integration |
+
+## 🎯 Current Roadmap 
+- 🔬 Deploying a real-time Scent-AI prototype
+- 🚀 Customized DRMAT memory system completion 
+- 🌐 Robotics simulation engine (C++/Rust)  
+- 📘 Undergraduate thesis on FER Based system 
+- 🎓 Preparing UTokyo CS graduate school portfolio
+
+## 🏆 Notable Achievements
+- 📊 Completed a multi-user real-time **Facial Emotion Recognition** customized system for undergraduate thesis.
+- 🧠 Designed customized memroy systems (DIMCA and DRMAT) with multiple advanced sub-models in development.
+- 🔧 Built various large-scale research-grade projects within the scope of AI, memory, compilers, vision, networks.
+- 🏫 Accepted into Seoul National University CSE undergraduate program (top program in South Korea).
+- 💡 Created full-stack AI and hardware based systems for engineering portfolio during undergraduate years.
 
 ## 🎧 Now Playing
 ![Spotify](https://novatorem.vercel.app/api/spotify)
