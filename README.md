@@ -151,7 +151,6 @@
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkysaputradev&layout=compact&theme=radical&v=2)
 ![Rizky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkysaputradev&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=rizkysaputradev&theme=radical)](https://git.io/streak-stats)
 ![GitHub Contribution Stats](https://github-contributor-stats.vercel.app/api?username=rizkysaputradev&limit=5&theme=radical&combine_all_yearly_contributions=true)
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizkysaputradev&theme=radical)
 ![GitHub Productivity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rizkysaputradev&theme=radical&utcOffset=9)
