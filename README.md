@@ -126,6 +126,11 @@
   _Tech:_ C, Assembly, Multithreading, Memory, Concurrency <br>
   _Field:_ Memory System, Computer Architecture, System Programming, Hardware System
 
+- ⚖️ **[Synthesized Training Pipeline DSL Compiler (SyntraLine++)](https://github.com/rizkysaputradev/Syntralinepp-Compiler.git)**  
+  Domain specific language (DSL) based compiler for defining, validating and executing advanced machine learning training pipelines. <br>
+  _Tech:_ C++, Python, CNN, MLP, Concurrency <br>
+  _Field:_ Compiler Design, System Programming, Computer Architecture, Artificial Intelligence
+
 - 🔬 **[Byte Bistro UDP-Based Transport Protocols](https://github.com/rizkysaputradev/Byte-Bistro-Transport-Protocols.git)**  
   UDP-based transport protocol research system implementing and comparing Go-Back-N and Selective Repeat with loss, duplication, reordering, delay, and rate control channel simulation. <br>
   _Tech:_ C, Assembly, Networks, Selective Repeat, Go-Back-N <br>
