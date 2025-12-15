@@ -13,7 +13,7 @@
 
 💡 My primary technical focus areas include **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, **Computer Vision**, **Neural Networks**, **Embedded Systems**, **Automata Theory**, **Computer Architecture**, and **System Programming** — bridging low-level high-performance computing with high-level cognitive models.
 
-🏢 My ultimate goal is to create a tech based startup firm in Japan or the U.S. related to either embedded systems, Machine Learning or Robotics.
+🏢 My ultimate goal is to create a tech based startup firm in Japan, South Korea, Indonesia and the U.S. related to either machine learning, computer vision, robotics, or real-time and embedded systems. However, primary focus is to incorporate a hardware/software co-design that is practical in various fields such as AI, medicine or farming.
 
 📷 Aside from programming, I enjoyed doing photography, travelling, cafe hopping, shopping, cooking, listening to music, watching movies and working out at the gym.
 
