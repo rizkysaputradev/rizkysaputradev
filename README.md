@@ -124,12 +124,17 @@
 - 🧠 **[Dynamic Integrated Memory Cross Allocation (DIMCA)](https://github.com/rizkysaputradev/Dynamic-Integrated-Memory-Cross-Allocation.git)**  
   Customized dynamic memory allocator which optimizes the distribution of data dynamically across multi-level memory pools. <br>
   _Tech:_ C, Assembly, Multithreading, Memory, Concurrency <br>
-  _Field:_ Memory System, Computer Architecture, System Programming, Hardware System
+  _Field:_ Memory System, Computer Architecture, System Programming, Operating System
 
 - ⚖️ **[Synthesized Training Pipeline DSL Compiler (SyntraLine++)](https://github.com/rizkysaputradev/Syntralinepp-Compiler.git)**  
   Domain specific language (DSL) based compiler for defining, validating and executing advanced machine learning training pipelines. <br>
   _Tech:_ C++, Python, CNN, MLP, Concurrency <br>
   _Field:_ Compiler Design, System Programming, Computer Architecture, Artificial Intelligence
+
+- 💾 **[Policy Indexed Contiguous Allocation System (PICAS)](https://github.com/rizkysaputradev/Policy-Indexed-Contiguous-Allocation-System.git)**  
+  Customized policy driven and phase aware layered memory allocator with tracing, safety fallbacks and sanitizer-tested builds. <br>
+  _Tech:_ C++, Sanitizers, Multithreading, Memory, Concurrency <br>
+  _Field:_ Memory System, Computer Architecture, System Programming, Hardware/Software Co-Design
 
 - 🔬 **[Byte Bistro UDP-Based Transport Protocols](https://github.com/rizkysaputradev/Byte-Bistro-Transport-Protocols.git)**  
   UDP-based transport protocol research system implementing and comparing Go-Back-N and Selective Repeat with loss, duplication, reordering, delay, and rate control channel simulation. <br>
