@@ -121,11 +121,6 @@
 
 ## 🚀 Featured Projects
 
-- 🧠 **[Dynamic Integrated Memory Cross Allocation (DIMCA)](https://github.com/rizkysaputradev/Dynamic-Integrated-Memory-Cross-Allocation.git)**  
-  Customized dynamic memory allocator which optimizes the distribution of data dynamically across multi-level memory pools. <br>
-  _Tech:_ C, Assembly, Multithreading, Memory, Concurrency <br>
-  _Field:_ Memory System, Computer Architecture, System Programming, Operating System
-
 - ⚖️ **[Synthesized Training Pipeline DSL Compiler (SyntraLine++)](https://github.com/rizkysaputradev/Syntralinepp-Compiler.git)**  
   Domain specific language (DSL) based compiler for defining, validating and executing advanced machine learning training pipelines. <br>
   _Tech:_ C++, Python, CNN, MLP, Concurrency <br>
@@ -136,11 +131,6 @@
   _Tech:_ C++, Sanitizers, Multithreading, Memory, Concurrency <br>
   _Field:_ Memory System, Computer Architecture, System Programming, Hardware/Software Co-Design
 
-- 🔬 **[Byte Bistro UDP-Based Transport Protocols](https://github.com/rizkysaputradev/Byte-Bistro-Transport-Protocols.git)**  
-  UDP-based transport protocol research system implementing and comparing Go-Back-N and Selective Repeat with loss, duplication, reordering, delay, and rate control channel simulation. <br>
-  _Tech:_ C, Assembly, Networks, Selective Repeat, Go-Back-N <br>
-  _Field:_ Computer Network, Data Communication, System Programming, Embedded System
-
 - 📹 **[Vision Fusion Real Time System (VFRT)](https://github.com/rizkysaputradev/Vision-Fusion-Real-Time)**  
   Real-time retrieval multimodial AI based demo that allows a visual input such as a webcam into a CLIP-powered object recognizer with a small, yet sufficient self-growing memory and adjustable text-prototype fusion. <br>
   _Tech:_ Python, HuggingFace, RAG, OpenCV, Streamlit <br>
@@ -150,6 +140,16 @@
   Cross-platform multithreaded real-time ambient sound engine built with Rust, C++, Python bindings, and SIMD-accelerated DSP—designed as a compact laboratory for systems-level audio synthesis and low-latency performance research. <br>
   _Tech:_ Rust, C++, Assembly, SIMD, Python, DSP, Multithreading, FFI <br>
   _Field:_ System Programming, Digital Signal Processing, Real-Time System, Audio Engineering
+
+- 🧠 **[Dynamic Integrated Memory Cross Allocation (DIMCA)](https://github.com/rizkysaputradev/Dynamic-Integrated-Memory-Cross-Allocation.git)**  
+  Customized dynamic memory allocator which optimizes the distribution of data dynamically across multi-level memory pools. <br>
+  _Tech:_ C, Assembly, Multithreading, Memory, Concurrency <br>
+  _Field:_ Memory System, Computer Architecture, System Programming, Operating System
+
+- 🔬 **[Byte Bistro UDP-Based Transport Protocols](https://github.com/rizkysaputradev/Byte-Bistro-Transport-Protocols.git)**  
+  UDP-based transport protocol research system implementing and comparing Go-Back-N and Selective Repeat with loss, duplication, reordering, delay, and rate control channel simulation. <br>
+  _Tech:_ C, Assembly, Networks, Selective Repeat, Go-Back-N <br>
+  _Field:_ Computer Network, Data Communication, System Programming, Embedded System
 
 - 🗣️ **[Politeness Rewriter T5-Based System](https://github.com/rizkysaputradev/Politeness-Rewriters)**  
   Classifier-guided style transfer for text politeness rewriting using a combination of transformer-based classifiers and controlled text generation. <br>
