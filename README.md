@@ -262,16 +262,15 @@ These are the list of courses that I have taken during my time as an undergradua
 | Compiler Systems | ⭐⭐⭐⭐☆ | DSL custom compiler, IR design, Python training integration |
 
 ## 🎯 Current Roadmap 
-- 🔬 Deploying a real-time Scent-AI prototype
-- 🚀 Customized DRMAT memory system completion 
-- 🌐 Robotics simulation engine (C++/Rust)  
-- 📘 Undergraduate thesis on FER Based system 
 - 🎓 Preparing UTokyo CS graduate school portfolio
+- 🔬 Deploying a real-time scent based AI multimodal prototype system
+- 🚀 Customized DRMAT memory system completion
+- 🌐 Robotics simulation engine via C++ or Rust
 
 ## 🏆 Notable Achievements
 - 📊 Completed a multi-user real-time **Facial Emotion Recognition** customized system for undergraduate thesis.
-- 🧠 Designed customized memroy systems (DIMCA and DRMAT) with multiple advanced sub-models in development.
-- 🔧 Built various large-scale research-grade projects within the scope of AI, memory, compilers, vision, networks.
+- 🧠 Designed customized memory systems (DIMCA, PICAS, DRMAT) with multiple advanced sub-models in development.
+- 🔧 Built various large-scale research-grade projects within the scope of AI, memory management, compilers, vision, networks.
 - 🏫 Accepted into Seoul National University CSE undergraduate program (top program in South Korea).
 - 💡 Created full-stack AI and hardware based systems for engineering portfolio during undergraduate years.
 
