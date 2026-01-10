@@ -7,7 +7,7 @@
 ## 🌱 Biography
  🎐 Hi, I am a computer science engineer originated from Indonesia and South Korea. Primarily specializes at artificial intelligence and embedded systems.
 
-🎓 I am an undergraduate Computer Science and Engineering (CSE) student at Seoul National University, currently expected to graduate in early 2026.
+🎓 I am an undergraduate Computer Science and Engineering (CSE) student at Seoul National University, currently graduating at February of 2026.
 
 📚 I plan to pursue graduate studies in Computer Science (CS) at the University of Tokyo starting around 2027, with a focus towards advanced systems, intelligence research, and theoretical foundations.
 
@@ -20,7 +20,7 @@
 ---
 
 ## 📂 Academia and Profession
-🔭 Currently, I am developing as follows: **Customized "DRMAT" Memory Systems (C/C++)**, **Facial Emotion Recognition (Python/OpenCV)**, and **Multimodal "Scent" AI (Notebook/HuggingFace)** 
+🔭 Currently, I am developing as follows: **Customized "DRMAT" Memory Systems (C/C++)** and a **Multimodal "Scent" AI (Notebook/HuggingFace)** 
 
 ⚙️ My research interests mainly lies within *Machine Learning, Memory Systems, Embedded Systems, Computer Vision, and Robotics*  
 
@@ -125,6 +125,11 @@
   Domain specific language (DSL) based compiler for defining, validating and executing advanced machine learning training pipelines. <br>
   _Tech:_ C++, Python, CNN, MLP, Concurrency <br>
   _Field:_ Compiler Design, System Programming, Computer Architecture, Artificial Intelligence
+
+- 🫆 **[FER-Based Burnout Detection System](https://github.com/rizkysaputradev/FER-Burnout-Detection-System.git)**  
+  Undergraduate thesis project implementing a real-time burnout and prolonged stress detection pipeline using facial emotion recognition, facial landmarks, temporal sequence modeling (LSTM), and statistical validation against standardized psychological surveys. The system integrates end-to-end vision processing, weighted burnout scoring, longitudinal analysis, and explainability via Grad-CAM. <br>
+  _Tech:_ Python, TensorFlow, OpenCV, CNN, LSTM <br>
+  _Field:_ Computer Vision, Deep Learning, Machine Learning, Real-Time System
 
 - 💾 **[Policy Indexed Contiguous Allocation System (PICAS)](https://github.com/rizkysaputradev/Policy-Indexed-Contiguous-Allocation-System.git)**  
   Customized policy driven and phase aware layered memory allocator with tracing, safety fallbacks and sanitizer-tested builds. <br>
@@ -266,12 +271,13 @@ These are the list of courses that I have taken during my time as an undergradua
 - 🔬 Deploying a real-time scent based AI multimodal prototype system
 - 🚀 Customized DRMAT memory system completion
 - 🌐 Robotics simulation engine via C++ or Rust
+- 📚 Diversify my knowledge and experience with front-end systems in AWS or for LLMs
 
 ## 🏆 Notable Achievements
-- 📊 Completed a multi-user real-time **Facial Emotion Recognition** customized system for undergraduate thesis.
+- 📊 Completed a multi-user real-time **Facial Emotion Recognition** customized system for an undergraduate thesis.
 - 🧠 Designed customized memory systems (DIMCA, PICAS, DRMAT) with multiple advanced sub-models in development.
 - 🔧 Built various large-scale research-grade projects within the scope of AI, memory management, compilers, vision, networks.
-- 🏫 Accepted into Seoul National University CSE undergraduate program (top program in South Korea).
+- 🏫 Graduated from Seoul National University with a B.S. in Computer Science and Engineering (Top program in South Korea).
 - 💡 Created full-stack AI and hardware based systems for engineering portfolio during undergraduate years.
 
 ## 🎧 Now Playing
